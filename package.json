@@ -1,0 +1,24 @@
+{
+  "name": "tarantula-jwt",
+  "version": "2.2.1",
+  "description": "Swift library for JSON Web Tokens (JWT)",
+  "main": "index.js",
+  "scripts": {
+    "pod:lint": "pod lib lint",
+    "pod:push": "pod repo push tarantula *.podspec --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianhlavats/jira-api.git"
+  },
+  "author": "Ian Hlavats (ian@tarantulaconsulting.com)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ianhlavats/jira-api/issues"
+  },
+  "homepage": "https://github.com/ianhlavats/jira-api#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "dot-env": "0.0.1"
+  }
+}
